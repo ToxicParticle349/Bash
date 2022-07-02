@@ -1,7 +1,3 @@
-# this script was written as a challenge. I have not tested it in because I never get chance to implement it. If you find this script helpful, let me know. 
-# AND IF YOU WANT TO EDIT SCRIPT, FEEL FREE TO DO SO AND LET ME KNOW THE CHANGES AS WELL. 
-# I hope this will help to automate your process. --ToxicParticle349
-
 #!/bin/sh
 
 echo "enter First IP address"
